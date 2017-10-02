@@ -8,3 +8,5 @@ You may assume that nums1 has enough space (size that is greater or equal to m +
 
 ## Solution
 因为nums1有足够的空间，因此可以从nums1的最高位往前填充
+
+[code](./MergeSortedArray.java)
