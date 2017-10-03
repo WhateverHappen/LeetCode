@@ -1,0 +1,15 @@
+# 119 - Pascal's Triangle
+>easy
+
+Given an index k, return the k-th row of the Pascal's triangle.
+
+## Example
+For example, given k = 3,
+Return
+ 
+    [1,3,3,1]
+    
+## Note
+Could you optimize your algorithm to use only O(k) extra space?
+
+[code](./PascalTriangle.java)
